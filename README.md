@@ -1,7 +1,6 @@
-### Hi, I'm Muhammed Hisham 
+# Hi, I'm Muhammed Hisham
 
+I'm a recent **B.Tech** graduate with a strong enthusiasm for applying my skills and knowledge in the dynamic and ever-evolving field of technology.
+ My expertise lies in developing applications using **Django, React, and Next.js**, which allows me to create seamless **full-stack experiences** by combining the power of **Python and JavaScript**. I'm always eager to explore new technologies and frameworks to enhance my development skills.
 
--  Recent **Btech** graduate, enthusiastic about leveraging my skills and knowledge in the field of technology.
--  I specialize in developing applications using **Django, React, and Next.js,** combining the power of **Python and JavaScript** for a seamless **full-stack experience**.
--  **Python and JavaScript** are my go-to programming languages, and I love exploring new technologies and frameworks to enhance my development skills.
--  You can mail me at [hishamp2131@gmail.com](hishamp2131@gmail.com)
+Feel free to reach out to me via email at hishamp2131@gmail.com.
