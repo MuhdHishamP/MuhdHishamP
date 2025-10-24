@@ -36,7 +36,7 @@ I'm a full-stack developer building innovative digital solutions one project at 
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 
-<br />
+<br clear="left" />
 
 #
 
@@ -62,5 +62,4 @@ I'm a full-stack developer building innovative digital solutions one project at 
   </a>
 </p>
 
----
 
