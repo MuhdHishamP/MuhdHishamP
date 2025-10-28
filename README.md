@@ -46,7 +46,8 @@ I'm a full-stack developer with 2 years of experience building innovative digita
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhdHishamP&show_icons=true&theme=gruvbox" alt="Hisham's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=MuhdHishamP&theme=gruvbox&border_radius=4.5" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=MuhdHishamP&theme=gruvbox&border_radius=4.5&v=2" alt="GitHub Streak" />
+
 </p>
 
 
