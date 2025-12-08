@@ -2,7 +2,9 @@
 
 **`Full-Stack Developer`**
 
-I'm a full-stack developer with 2 years of experience building innovative digital solutions one project at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I specialize in creating scalable web applications using modern technologies like React, Next.js, Django, and GraphQL. Currently working remotely with MYTE IT Consulting, I'm passionate about building efficient, user-centric applications and contributing to open-source projects.
+I'm a full-stack developer with 2 years of experience building digital solutions one project at a time. All my projects are built from the ground up, starting with planning and design and ending with solving real-world problems through code. I specialize in creating scalable web applications using modern technologies such as React, Next.js, Django, and GraphQL.
+
+I currently work remotely with MYTE, an Australia-based company. I’m passionate about building efficient, user-centric applications and contributing to open-source projects.
 
 
    <p align="left">
