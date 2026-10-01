@@ -42,14 +42,7 @@ I currently work remotely with InTensors, a US-based company, where I'm building
 
 <br clear="left" />
 
-#
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/MuhdHishamP?cardType=github&theme=gruvbox&preferLogin=false" alt="Hisham's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=MuhdHishamP&theme=gruvbox&border_radius=4.5" alt="GitHub Streak" />
-</p>
+---
 
 ### 📫 Connect With Me
 
